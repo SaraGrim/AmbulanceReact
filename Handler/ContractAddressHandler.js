@@ -1,0 +1,1 @@
+export const { ambulanceAddress } = " 0xcf52F95F272Ba974032826da2EA600Be3FE0713a";
